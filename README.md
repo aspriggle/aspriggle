@@ -1,10 +1,6 @@
-About Me
-I'm a dynamic and adaptable individual whose journey into software development began in an unconventional manner. Starting as a teenage private investigator, I cultivated strong problem-solving skills and attention to detail. Transitioning through roles in retail, hospitality, and victim advocacy, I gained invaluable experience in communication, empathy, and advocacy.
+# 💖🎉🌸 Pink-loving Christian coder on a mission! 🌸 🎉💖
+Hey there! I'm Ashley, a passionate coder with a penchant for pink and a heart filled with faith. My journey from detective work 🔍 to digital solutions 💻 has been an exciting fusion of Barbie dreams and faith-filled endeavors. Overcoming dyslexia along the way, I've been learning languages like Java, C#, and beyond, diving into projects that streamline processes and drive results.
 
-Driven by a passion for technology and a desire to make a difference, I embarked on a new chapter during the COVID-19 pandemic, seizing the opportunity to pursue coding as a career. As a dyslexic learner, I've overcome obstacles with determination, proving that disabilities do not limit one's potential.
+Currently, you can find me crafting code that blends grace and glam, infusing each project with a touch of charm✨. Let's collaborate and create something truly special! 🎉 Follow me for inspiring content, or reach out to discuss potential collaborations.
 
-In my current role as a student software developer, I'm dedicated to continuous learning and growth. Proficient in Java, C#, HTML, CSS, and JavaScript, I'm actively involved in collaborative projects, including a travel planner application developed with a team of peers.
-
-My approach to coding combines creativity, problem-solving, and a commitment to excellence. I thrive in team environments, drawing on my background in victim advocacy to communicate effectively and collaborate towards shared goals.
-
-I'm eager to contribute my diverse skills and experiences to a forward-thinking team, where I can leverage technology to create innovative solutions and positively impact the lives of others.
+#GirlyCoder #FaithInTech #ChristianCoder #PinkCodePassion #CodeWithHeart💖
