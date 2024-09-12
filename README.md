@@ -2,8 +2,8 @@
 I’m Ashley—a developer who combines a love for pink with a commitment to making technology both elegant and accessible. My tech journey, supported by faith and perseverance, involves learning languages like Java and C#. I emphasize efficiency and clarity in my work.
 
 ## Why You’ll Love My Work
-Crafting Precision: I plan thoroughly and simplify to enhance efficiency.
-Purpose-Driven Development: My projects aim to improve lives and reflect my core values.
+Crafting Precision: I plan thoroughly and simplify to enhance efficiency.\
+Purpose-Driven Development: My projects aim to improve lives and reflect my core values.\
 Elegant and Functional Solutions: I develop tech that’s both visually appealing and highly practical.
 
 ## Solving Challenges with a Unique Perspective
